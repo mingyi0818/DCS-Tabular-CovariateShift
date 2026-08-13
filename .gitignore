@@ -1,0 +1,31 @@
+# Data files (large, not needed on GitHub)
+data/
+
+# Results (generated, not source code)
+results/
+
+# Plots (generated, not source code)
+plots/
+
+# Paper draft and submission materials
+paper_draft.md
+cover_letter.md
+submission_checklist.md
+reviewer_dossier.md
+reviewer_feedback.md
+research_plan.md
+
+# Reference materials
+reference/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Old versions
+old/
