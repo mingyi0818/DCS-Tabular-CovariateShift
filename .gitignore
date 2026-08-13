@@ -29,3 +29,9 @@ __pycache__/
 
 # Old versions
 old/
+
+# Non-reproduction scripts (preliminary/verification, not for reviewers)
+code/feasibility_exp1_and_3.py
+code/feasibility_exp2_drift_resilient.py
+code/verify_paper_data.py
+code/drift_resilient_5seed.py
